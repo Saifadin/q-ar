@@ -1,0 +1,3 @@
+rootProject.name = 'PitchSample'
+
+include ':app'
